@@ -412,7 +412,7 @@ ninja.data = [{
           title: 'I officially joined the LARA Lab at UMBC. :tada:',
           description: "",
           section: "News",},{id: "news-i-presented-is-linguistically-motivated-data-augmentation-worth-it-virtually-at-acl-2025",
-          title: 'I presented Is linguistically-motivated data augmentation worth it?, virtually at ACL 2025!',
+          title: 'I presented Is linguistically-motivated data augmentation worth it? virtually at ACL 2025!',
           description: "",
           section: "News",},{id: "photography-october-big-day",
           title: 'October Big Day',
