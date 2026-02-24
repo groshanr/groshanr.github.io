@@ -17,7 +17,7 @@ collection: photography
     <h2 class="category">{{ category }}</h2>
   </a>
   {% assign categorized_photography = site.photography | where: "category", category %}
-  {% assign sorted_photography = categorized_photography | sort: "importance" %}
+  {% assign sorted_photography = categorized_photography | sort: "date" %}
   <!-- Generate cards for each project -->
   {% if page.horizontal %}
   <div class="container">
@@ -40,7 +40,7 @@ collection: photography
 
 <!-- Display photography without categories -->
 
-{% assign sorted_photography = site.photography | sort: "importance" %}
+{% assign sorted_photography = site.photography | sort: "date" %}
 
   <!-- Generate cards for each project -->
 
