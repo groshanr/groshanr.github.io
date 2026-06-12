@@ -23,16 +23,16 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-# Research Interests 
+### Research Interests 
 My interests broadly lie in the realm of human-centered AI, specifically in making tech that is accessible and customizable (and fun!) for all. A few areas of interest for me:
 
-## Serious Games
+#### Serious Games
 - Gamifying treatment of cognitive-communication disorders and oculomotor dysfunction post-brain injury
 
-## Customization of Assistive Tech
+#### Customization of Assistive Tech
 - Creating customizable voices for TTS, specifically with gender-expansive folks in mind
 
-## Adaptive Design
+#### Adaptive Design
 - Dynamic adjustment of therapeutic serious games using ML and eye tracking based on cognitive load and treatment progression
 
 Outside of academia, you'll find me playing video games or tabletop games, meandering through nature taking photos of the local flora and fauna, hanging out with my cat, or volunteering in wildlife rehab.
