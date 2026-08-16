@@ -75,19 +75,25 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/disabling_intelligences/";
-            },},{id: "books-the-dungeon-anarchist-s-cookbook",
-          title: 'The Dungeon Anarchist’s Cookbook',
+            },},{id: "books-the-butcher-39-s-masquerade",
+          title: 'The Butcher&amp;#39;s Masquerade',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/books/dungeon_anarchists_cookbook/";
+              window.location.href = "/books/the_butchers_masquerade/";
             },},{id: "news-graduated-from-cu-boulder-with-my-ms-in-computational-linguistics-mortar-board",
           title: 'Graduated from CU Boulder with my MS in Computational Linguistics! :mortar_board:',
           description: "",
-          section: "News",},{id: "news-i-officially-joined-the-lara-lab-at-umbc-tada",
-          title: 'I officially joined the LARA Lab at UMBC. :tada:',
-          description: "",
           section: "News",},{id: "news-i-presented-is-linguistically-motivated-data-augmentation-worth-it-virtually-at-acl-2025",
-          title: 'I presented Is linguistically-motivated data augmentation worth it? virtually at ACL 2025!',
+          title: 'I presented Is linguistically-motivated data augmentation worth it? virtually at ACL 2025.',
+          description: "",
+          section: "News",},{id: "news-i-officially-started-my-phd-in-computer-science-at-umbc-tada",
+          title: 'I officially started my PhD in Computer Science at UMBC. :tada:',
+          description: "",
+          section: "News",},{id: "news-attended-siggraph-in-la",
+          title: 'Attended SIGGRAPH in LA!',
+          description: "",
+          section: "News",},{id: "news-attended-the-serious-play-conference-in-durham-nc-joystick",
+          title: 'Attended the Serious Play Conference in Durham, NC. :joystick:',
           description: "",
           section: "News",},{id: "photography-early-morning-at-cromwell-valley",
           title: 'Early morning at Cromwell Valley',
@@ -109,6 +115,21 @@ ninja.data = [{
           description: "An Eastern gray squirrel in a tree cavity",
           section: "Photography",handler: () => {
               window.location.href = "/photography/squirrel/";
+            },},{id: "photography-afternoon-sun",
+          title: 'Afternoon Sun',
+          description: "A song sparrow at Patuxent Wildlife Research Refuge",
+          section: "Photography",handler: () => {
+              window.location.href = "/photography/patuxent_songsparrow/";
+            },},{id: "photography-friend-or-foe",
+          title: 'Friend? Or foe?',
+          description: "The cardinal scared the sparrow off immediately after this was taken.",
+          section: "Photography",handler: () => {
+              window.location.href = "/photography/friendorfoe/";
+            },},{id: "photography-morning-walk-at-hughes-hollow",
+          title: 'Morning walk at Hughes Hollow',
+          description: "A silver-spotted skipper",
+          section: "Photography",handler: () => {
+              window.location.href = "/photography/moth/";
             },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
