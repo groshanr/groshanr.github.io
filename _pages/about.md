@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Computer Science PhD Student in the <a href='https://laramartin.net/lab/'>LARA Lab</a> @ UMBC. 
+subtitle: Computer Science PhD Student in the <a href='https://sites.google.com/umbc.edu/prof-rebecca-williams/research?authuser=0'>MISFIT Lab</a> @ UMBC. 
 
 profile:
   align: right
@@ -24,13 +24,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 ### Research Interests 
-My interests broadly lie in the realm of human-centered AI, specifically in making tech that is accessible and customizable (and fun!) for all. A few areas of interest for me:
+My interests broadly lie in the realm of human-centered computing, specifically in making tech that is accessible and customizable (and fun!) for all. A few areas of interest for me:
 
 ##### Serious Games
 - Gamifying treatment of cognitive-communication disorders and oculomotor dysfunction post-brain injury
-
-##### Customization of Assistive Tech
-- Creating customizable voices for TTS, specifically with gender-expansive folks in mind
 
 ##### Adaptive Design
 - Dynamic adjustment of therapeutic serious games using ML and eye tracking based on cognitive load and treatment progression
